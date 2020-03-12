@@ -4,7 +4,7 @@
   --mainWhite: #f3f3f3;
   --mainDark: #232528;
   --mainYellow: #ffa400;
-  --mainSmoke: rgba(0, 0, 0, 0.2);
+  --mainSmoke: #fffaf0;
 }
 body {
   font-family: "Oswald", sans-serif !important;

@@ -72,9 +72,10 @@ const ProductWrapper = styled.div`
     font-family: TimesNewRoman;
     font-weight: bold;
     color: var(--mainBlue);
+    background-color: #f2f3f4;
   }
   .card-footer {
-    background: transparent;
+    background: var(--mainWhite);
     border-top: transparent;
     transition: all 1s linear;
   }
