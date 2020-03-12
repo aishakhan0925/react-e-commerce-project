@@ -4,10 +4,11 @@
   --mainWhite: #f3f3f3;
   --mainDark: #232528;
   --mainYellow: #ffa400;
+  --mainSmoke: rgba(0, 0, 0, 0.2);
 }
 body {
   font-family: "Oswald", sans-serif !important;
-  background: var(--mainWhite) !important;
+  background: var(--mainSmoke) !important;
   color: var(--mainDark) !important;
 }
 .text-title {
